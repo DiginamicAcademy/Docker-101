@@ -1,0 +1,15 @@
+course:
+  name: "Docker 101"
+  RNCP:
+    - RNCP37873
+    - RNCP37674
+    - RNCP40573
+  RNCPBloc: []
+  timing: 0.5
+
+credits:
+  authors:
+    - name: Jean-François Vial
+      github: 
+        - JeffDiginamic
+        - j33f
